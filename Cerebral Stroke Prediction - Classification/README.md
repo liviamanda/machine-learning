@@ -10,6 +10,8 @@ This project is designed to evaluate Machine Learning concepts, focusing on the 
 - Hyperparameter Tuning and Model Improvement.
 - Model Deployment.
 
+---
+
 ### Conceptual Problems
 
 1. **Background and Working Principle of Bagging:**
@@ -20,8 +22,6 @@ This project is designed to evaluate Machine Learning concepts, focusing on the 
 
 3. **Cross Validation Explanation:**
    Clarify the concept of Cross Validation.
-
----
 
 ### Problem Statement
 
