@@ -29,7 +29,7 @@ To address this challenge, the company seeks a clustering model capable of segme
 
 This project aims to develop a clustering model using the `K-Means` and `K-Prototypes` algorithms to segment customers based on their credit-related activities and characteristics. The primary goal is to identify distinct customer groups with similar behaviors and preferences. This segmentation will enable the bank company to tailor their services and marketing strategies more effectively, catering to the specific needs of each customer segment.
 
-**Output of this Project:**
+### **Output of this Project:**
 - Jupyter Notebook documenting the data preparation, clustering model implementation, and analysis.
 - Insights and recommendations based on the clustering results for customer segmentation strategies.
 
