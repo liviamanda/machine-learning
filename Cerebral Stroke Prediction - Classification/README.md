@@ -14,13 +14,13 @@ This project is designed to evaluate Machine Learning concepts, focusing on the 
 
 ### Conceptual Problems
 
-1. **Background and Working Principle of Bagging:**
+1. **Background and Working Principle of Bagging:**  
    Explain the rationale behind bagging and how it operates.
 
-2. **Differences Between Random Forest and Boosting Algorithms:**
+2. **Differences Between Random Forest and Boosting Algorithms:**  
    Describe the distinct working mechanisms of Random Forest and the chosen boosting algorithm.
 
-3. **Cross Validation Explanation:**
+3. **Cross Validation Explanation:**  
    Clarify the concept of Cross Validation.
 
 ### Problem Statement
