@@ -25,8 +25,6 @@ This project is designed to evaluate Logistic Regression, SVM, and KNN concepts 
 4. **Define the following metrics: `Accuracy`, `Precision`, `Recall`, `F1 Score`, and when is the appropriate time to use them?**  
    Define the mentioned metrics and discuss when it's suitable to use each of them.
 
----
-
 ### Problem Statement
 
 The company is struggling to accurately assess credit risks, necessitating an advanced model to predict default probabilities in upcoming periods. Default occurs when borrowers fail to meet credit card payments, resulting in financial losses, increased recovery costs, and potential damage to the company's reputation.
@@ -42,7 +40,5 @@ This project aims to develop a classification model using `K-Nearest Neighbors (
 - Jupyter Notebook for model training.
 - Jupyter Notebook for model inference.
 - Deployment instructions/scripts for deploying the trained model.
-
----
 
 This README provides an overview of the project's objectives, conceptual challenges, problem statement, objectives, and expected outputs, outlining the process of Credit Card Default Detection through Classification techniques using Logistic Regression, SVM, and KNN algorithms.
