@@ -31,10 +31,10 @@ To overcome these challenges, the company aims to develop a model capable of ana
 
 The dataset focuses on cerebral strokes, encompassing patients' personal details, health status, lifestyle, and stroke history.
 
-**Objective:**
+### **Objective:**
 This project centers on creating a classification model to predict strokes, evaluating performance among `KNN`, `SVM`, `Logistic Regression`, `Decision Tree`, `Random Forest`, and `XGBoost`. The primary evaluation metric, `Recall`, determines each model's effectiveness in identifying stroke cases.
 
-**Output of this Project:**
+### **Output of this Project:**
 - Jupyter Notebook for Model Training.
 - Jupyter Notebook for Model Inference.
 - Deployment instructions for practical application.
