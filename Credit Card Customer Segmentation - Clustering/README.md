@@ -11,14 +11,6 @@ This project is designed to evaluate Clustering concepts with the following obje
 
 ---
 
-### Conceptual Problems
-
-1. **What is `Inertia` in K-Means Algorithm?**  
-   Explain the concept of inertia in the context of the K-Means algorithm.
-
-2. **Elbow Method Explanation:**  
-   Describe the Elbow Method, including its purpose, usage, strengths, and weaknesses.
-
 ### Problem Statement
 
 A bank company faces challenges in effectively targeting and understanding its diverse customer base due to a lack of insights into their specific needs and preferences. Therefore, they aim to perform Customer Segmentation using credit information data. This dataset includes information about credit card users from the last 6 months, covering balance, spending patterns, credit limits, payment behavior, and other relevant details.
