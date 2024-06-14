@@ -40,5 +40,3 @@ This project aims to develop a classification model using `K-Nearest Neighbors (
 - Jupyter Notebook for model training.
 - Jupyter Notebook for model inference.
 - Deployment instructions/scripts for deploying the trained model.
-
-This README provides an overview of the project's objectives, conceptual challenges, problem statement, objectives, and expected outputs, outlining the process of Credit Card Default Detection through Classification techniques using Logistic Regression, SVM, and KNN algorithms.
