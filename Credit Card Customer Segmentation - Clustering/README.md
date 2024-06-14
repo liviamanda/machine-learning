@@ -32,5 +32,3 @@ This project aims to develop a clustering model using the `K-Means` and `K-Proto
 ### **Output of this Project:**
 - Jupyter Notebook documenting the data preparation, clustering model implementation, and analysis.
 - Insights and recommendations based on the clustering results for customer segmentation strategies.
-
-This README provides an overview of the project's objectives, conceptual challenges, problem statement, and objectives, outlining the process of Credit Card Customer Segmentation through Clustering techniques.
