@@ -11,20 +11,6 @@ This project is designed to evaluate Logistic Regression, SVM, and KNN concepts 
 
 ---
 
-### Conceptual Problems
-
-1. **What is the coefficient in logistic regression?**  
-   Explain the concept of the coefficient in logistic regression.  
-
-2. **What is the function of the kernel parameter in SVM? Explain one kernel you understand.**  
-   Describe the function of the kernel parameter in SVM and explain one kernel you are familiar with.
-
-3. **How do you choose the optimal `K` in KNN?**  
-   Explain the process of selecting the optimal value for `K` in KNN.
-
-4. **Define the following metrics: `Accuracy`, `Precision`, `Recall`, `F1 Score`, and when is the appropriate time to use them?**  
-   Define the mentioned metrics and discuss when it's suitable to use each of them.
-
 ### Problem Statement
 
 The company is struggling to accurately assess credit risks, necessitating an advanced model to predict default probabilities in upcoming periods. Default occurs when borrowers fail to meet credit card payments, resulting in financial losses, increased recovery costs, and potential damage to the company's reputation.
