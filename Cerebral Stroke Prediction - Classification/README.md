@@ -38,5 +38,3 @@ This project centers on creating a classification model to predict strokes, eval
 - Jupyter Notebook for Model Training.
 - Jupyter Notebook for Model Inference.
 - Deployment instructions for practical application.
-
-This README outlines the project's objectives, instructions, and tasks, aiming for a comprehensive classification of cerebral strokes through Machine Learning techniques.
