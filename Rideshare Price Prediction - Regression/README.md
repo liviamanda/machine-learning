@@ -32,5 +32,3 @@ This project seeks to develop a `Linear Regression` model specifically designed 
 
 - Jupyter Notebook for model development.
 - Jupyter Notebook for model inference.
-
-This README provides a comprehensive overview of the project's objectives, conceptual challenges, problem statement, objectives, and expected outputs. It outlines the process of Rideshare Price Prediction using Linear Regression modeling techniques and evaluation metrics for assessing model performance and predictive accuracy.
