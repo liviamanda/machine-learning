@@ -21,5 +21,3 @@ The objective of this project is to develop a predictive model using `LSTM` (Lon
 ### Output
 
 Jupyter Notebook detailing the model development process.
-
-This README offers a comprehensive overview of the project's objectives, challenges, problem statement, objectives, and expected output. It delineates the process of Stock Exchange Prediction using LSTM modeling techniques and includes evaluation metrics for assessing model performance and accuracy.
