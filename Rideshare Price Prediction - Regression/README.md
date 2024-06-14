@@ -10,14 +10,6 @@ This project is created to evaluate Regression concepts, focusing on the followi
 
 ---
 
-### Conceptual Problems
-
-1. **List and explain the assumptions used by Linear Regression.**
-   Provide a detailed explanation of the assumptions underlying Linear Regression.
-
-2. **Show and interpret the meaning of slope and intercept obtained from the model built.**
-   Illustrate and explain the significance of the slope and intercept derived from the model.
-
 ### Problem Statement
 
 A ride-hailing company is currently grappling with a significant challenge due to the unpredictable fluctuations in ride costs. These fluctuations stem from various dynamic factors influencing pricing. The unpredictability often leaves users unsure of the expected cost in advance, leading to frustration and a loss of trust when the final price exceeds expectations.
