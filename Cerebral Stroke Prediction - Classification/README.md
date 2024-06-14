@@ -12,17 +12,6 @@ This project is designed to evaluate Machine Learning concepts, focusing on the 
 
 ---
 
-### Conceptual Problems
-
-1. **Background and Working Principle of Bagging:**  
-   Explain the rationale behind bagging and how it operates.
-
-2. **Differences Between Random Forest and Boosting Algorithms:**  
-   Describe the distinct working mechanisms of Random Forest and the chosen boosting algorithm.
-
-3. **Cross Validation Explanation:**  
-   Clarify the concept of Cross Validation.
-
 ### Problem Statement
 
 The healthcare center faces significant challenges in predicting strokes among patients, leading to delayed interventions and jeopardizing lives. The complexity arises from varied stroke symptoms and risk factors such as age, health status, and lifestyle choices. Inability to promptly identify high-risk individuals hampers timely medical assistance, potentially resulting in severe consequences like long-term disability or death. This underscores the urgent need for advanced tools to predict strokes early and tailor care accordingly.
